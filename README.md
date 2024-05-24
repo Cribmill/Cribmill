@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hana
 - 👀 I’m interested in Blockchain, Solidity, Comunity development, Project Managment 
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning and translating Solidity documentation.
 - 💞️ I’m looking to collaborate on Education and community development. Help you get to and work with Ethiopian Blockchain Developers.
 - 📫 How to reach me ;- HANANEXT@GMAIL.COM
 - ⚡ Fun fact: ;- Am a natural networker. If you know me you are one hand shake away from what you want.
